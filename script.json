@@ -1,5 +1,5 @@
 {
-    "BOT": "Hi there!\nI’m the personal bot of Curtis, a Business Analyst from Vancouver Island.\n![Curtis](https://raw.githubusercontent.com/Curtiscrawford/smooch-bot-example/master/img/Curtis.jpg)\nWant to know more about bots or learn about Curtis? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Curtis](postback:learn_about_Curtis) %[One random fact!](postback:random_fact)",
+    "BOT": "Hi there!\nI’m the personal bot of Curtis, a Business Analyst from Vancouver Island.\n![Curtis](https://raw.githubusercontent.com/TripWhyr/EstherBot/Release2/img/Curtis.jpg)\nWant to know more about bots or learn about Curtis? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Curtis](postback:learn_about_Curtis) %[One random fact!](postback:random_fact)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, CurtisBot is back."
